@@ -1,0 +1,12 @@
+#################################
+#
+#	tech
+#
+################################
+https://www.archlinux.org/feeds/news/ "arch" "~Arch Linux RSS Feed"
+https://www.kernel.org/feeds/kdist.xml "linux" "~Kernel Version Feed"
+https://bugs.archlinux.org/feed.php?feed_type=rss2&project=0 "sec" "~Arch Bug Tracking Recently Opened"
+https://bugs.archlinux.org/feed.php?feed_type=rss2&topic=clo&project=0 "sec" "~Arch Bug Tracking Recently Closed"
+https://nvd.nist.gov/download/nvd-rss.xml "sec" "~National Vulnerability Database: All CVE vulnerabilities"
+https://nvd.nist.gov/download/nvd-rss-analyzed.xml "sec" "~National Vulnerability Database: Full analyzed CVE vulnerabilities"
+

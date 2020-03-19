@@ -1,0 +1,10 @@
+# Dark theme
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+#rofi.theme: /home/lain/.config/rofi/full-dark.rasi
+rofi.font: xft\ Terminess Powerline 12
+#rofi.font: xft\ Terminess Powerline 16
+#rofi.font:TerminessTTF 12
+#
+
+#rofi.fullscreen: true
+#rofi.lines: 5

@@ -1,0 +1,15 @@
+! URxvt settings
+URxvt.scrollBar:0
+URxvt.internalBorder: 16
+URxvt.depth:24
+URxvt*font:xft:Terminess Powerline:pixelsize=16
+
+! URxvt perl plugins
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.perl-ext-common: resize-font
+
+! Some rofi stuff
+! rofi.font: "Terminess Powerline" 12
+
+
