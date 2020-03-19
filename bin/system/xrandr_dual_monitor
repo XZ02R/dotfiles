@@ -1,0 +1,4 @@
+#!/bin/sh
+xrandr --output HDMI-A-0 --auto --output DisplayPort-2 --auto --right-of HDMI-A-0
+xrandr --output HDMI-A-0 --mode 1920x1080 --rate 60 --primary
+xrandr --output DisplayPort-2 --mode 1920x1080 --rate 60
