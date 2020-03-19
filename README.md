@@ -4,5 +4,5 @@
 
 ## Note
 
-Don't copy the files randomly. Review and read the settings in case you bork your system trying to copy my dots.
+Primarily a backup. Feel free to use some of the configs.
 
